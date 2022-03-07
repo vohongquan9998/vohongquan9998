@@ -1,4 +1,4 @@
-<h1 align="center">Hello ,I'm Vo Hong Quan :v:</h1>
+<h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> Hello ,I'm Vo Hong Quan  </h1> 
 
 <br/>
 <p><img align="right" src="https://github.com/vohongquan9998/vohongquan9998/blob/main/assets/programing.png?raw=true" alt="adam-pw" width="50%" /></p>
@@ -63,10 +63,8 @@
 <br>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vohongquan9998&show_icons=true&locale=en&theme=algolia"
-    alt="vhq9998" /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vohongquan9998&show_icons=true&locale=en&theme=algolia"
+    alt="vhq9998"/> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vohongquan9998&theme=algolia" alt="vhq9998"/></p
 
-<br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vohongquan9998&theme=algolia" alt="vhq9998" /></p>
 
