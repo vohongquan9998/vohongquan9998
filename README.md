@@ -47,16 +47,29 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow"
       width="40" height="40" />  </p>
 <br>
-
-
-
+<!--
 <br>
+<h3 align="center">I can do </h3>
+<br>
+<p align="center">
+  <img 
+      src="https://github.com/vohongquan9998/vohongquan9998/blob/main/assets/app.png?raw=true"
+      alt="app" width="11%" height="11%" />Mobile Application</p>
+<p align="center">
+  <img
+      src="https://github.com/vohongquan9998/vohongquan9998/blob/main/assets/destop.png?raw=true"
+      alt="desktop" width="11%" height="11%" />Mobile Application</p>
+<p align="center">
+    <img
+      src="https://github.com/vohongquan9998/vohongquan9998/blob/main/assets/sql.png?raw=true"
+      alt="db" width="11%" height="11%" />Mobile Application</p>
+  <br>
+-->
+
+
 <h3 align="center">Statistical Data </h3>
 <br>
-
-
-
-<p align ="center"><img align="center"
+<p  align ="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=vohongquan9998&show_icons=true&locale=en&layout=compact&theme=algolia"
     alt="vhq9998" /></p>
 
