@@ -11,7 +11,7 @@
 
 <p align="center">- :e-mail: Contact my email : vohongquan9998@gmail.com</p>
 
-<p align="center">- :1st_place_medal:Award : Gold Medal WorldSkills VietNam 2021 - IT Software Solutions for Business </p>
+<!--<p align="center">- :1st_place_medal:Award : Gold Medal WorldSkills VietNam 2021 - IT Software Solutions for Business </p>-->
 
 
 <h3 align="center">Languages and Tools:</h3>
